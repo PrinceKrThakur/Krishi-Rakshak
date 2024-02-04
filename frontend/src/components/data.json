@@ -1,0 +1,159 @@
+[
+    {
+     "JavaScript isn't enabled in your browser, so this file can't be opened. Enable and reload.": 1,
+     "Column2": "Crop",
+     "Column3": "Disease",
+     "Column4": "Pesticide"
+    },
+    {
+     "JavaScript isn't enabled in your browser, so this file can't be opened. Enable and reload.": 2,
+     "Column2": "Corn",
+     "Column3": "Common_Rust",
+     "Column4": "chlorothalonil, mancozeb"
+    },
+    {
+     "JavaScript isn't enabled in your browser, so this file can't be opened. Enable and reload.": 3,
+     "Column2": "Corn",
+     "Column3": "Gray_Leaf_Spot",
+     "Column4": "Foliar fungicides"
+    },
+    {
+     "JavaScript isn't enabled in your browser, so this file can't be opened. Enable and reload.": 4,
+     "Column2": "Corn",
+     "Column3": "Northern_Leaf_Blight",
+     "Column4": "Delaro® 325 SC Fungicide Delaro® Complete Fungicide"
+    },
+    {
+     "JavaScript isn't enabled in your browser, so this file can't be opened. Enable and reload.": 5,
+     "Column2": "Potato",
+     "Column3": "Early_Blight",
+     "Column4": "chlorothalonil, mancozeb"
+    },
+    {
+     "JavaScript isn't enabled in your browser, so this file can't be opened. Enable and reload.": 6,
+     "Column2": "Potato",
+     "Column3": "Late_Blight",
+     "Column4": "Organocide® Plant Doctor , Monterey® All Natural Disease Control"
+    },
+    {
+     "JavaScript isn't enabled in your browser, so this file can't be opened. Enable and reload.": 7,
+     "Column2": "Rice",
+     "Column3": "Brown_Spot",
+     "Column4": "iprodione, propiconazole, azoxystrobin"
+    },
+    {
+     "JavaScript isn't enabled in your browser, so this file can't be opened. Enable and reload.": 8,
+     "Column2": "Rice",
+     "Column3": "Neck_Blast",
+     "Column4": "triazoles, strobilurins"
+    },
+    {
+     "JavaScript isn't enabled in your browser, so this file can't be opened. Enable and reload.": 9,
+     "Column2": "Rice",
+     "Column3": "Leaf_Blast",
+     "Column4": "Captan, Carbendazim, Thiram, Tricyclazole"
+    },
+    {
+     "JavaScript isn't enabled in your browser, so this file can't be opened. Enable and reload.": 10,
+     "Column2": "Wheat",
+     "Column3": "Yellow_Rust",
+     "Column4": "Proline275, Aviator235Xpro, AscraXpro"
+    },
+    {
+     "JavaScript isn't enabled in your browser, so this file can't be opened. Enable and reload.": 11,
+     "Column2": "Wheat",
+     "Column3": "Brown_Rust",
+     "Column4": "Aviator235Xpro, AscraXpro"
+    },
+    {
+     "JavaScript isn't enabled in your browser, so this file can't be opened. Enable and reload.": 12,
+     "Column2": "Apple",
+     "Column3": "Black_Rot",
+     "Column4": "Mancozeb,Ziram"
+    },
+    {
+     "JavaScript isn't enabled in your browser, so this file can't be opened. Enable and reload.": 13,
+     "Column2": "Apple",
+     "Column3": "Rust",
+     "Column4": "Mancozeb,Myclobutanil"
+    },
+    {
+     "JavaScript isn't enabled in your browser, so this file can't be opened. Enable and reload.": 14,
+     "Column2": "Apple",
+     "Column3": "Scab",
+     "Column4": "Myclobutanil,Bordeaux mixtures"
+    },
+    {
+     "JavaScript isn't enabled in your browser, so this file can't be opened. Enable and reload.": 15,
+     "Column2": "Tomato",
+     "Column3": "Bacterial Spot",
+     "Column4": "Copper plus mancozeb"
+    },
+    {
+     "JavaScript isn't enabled in your browser, so this file can't be opened. Enable and reload.": 16,
+     "Column2": "Tomato",
+     "Column3": "Early_Blight",
+     "Column4": "chlorothalonil, mancozeb"
+    },
+    {
+     "JavaScript isn't enabled in your browser, so this file can't be opened. Enable and reload.": 17,
+     "Column2": "Tomato",
+     "Column3": "Late_Blight",
+     "Column4": "Organocide® Plant Doctor , Monterey® All Natural Disease Control"
+    },
+    {
+     "JavaScript isn't enabled in your browser, so this file can't be opened. Enable and reload.": 18,
+     "Column2": "Tomato",
+     "Column3": "Laef_Mold"
+    },
+    {
+     "JavaScript isn't enabled in your browser, so this file can't be opened. Enable and reload.": 19,
+     "Column2": "Tomato",
+     "Column3": "Mosaic_Virus"
+    },
+    {
+     "JavaScript isn't enabled in your browser, so this file can't be opened. Enable and reload.": 20,
+     "Column2": "Tomato",
+     "Column3": "Septoria_Leaf_Spot"
+    },
+    {
+     "JavaScript isn't enabled in your browser, so this file can't be opened. Enable and reload.": 21,
+     "Column2": "Tomato",
+     "Column3": "Spider_Mites_(Two_Spotted_Spider_Mite)"
+    },
+    {
+     "JavaScript isn't enabled in your browser, so this file can't be opened. Enable and reload.": 22,
+     "Column2": "Tomato",
+     "Column3": "Target_Spot"
+    },
+    {
+     "JavaScript isn't enabled in your browser, so this file can't be opened. Enable and reload.": 23,
+     "Column2": "Tomato",
+     "Column3": "Yellow_Leaf_Curl_Virus"
+    },
+    {
+     "JavaScript isn't enabled in your browser, so this file can't be opened. Enable and reload.": 24,
+     "Column2": "Tea",
+     "Column3": "Algal_Leaf"
+    },
+    {
+     "JavaScript isn't enabled in your browser, so this file can't be opened. Enable and reload.": 25,
+     "Column2": "Tea",
+     "Column3": "Anthacnose"
+    },
+    {
+     "JavaScript isn't enabled in your browser, so this file can't be opened. Enable and reload.": 26,
+     "Column2": "Tea",
+     "Column3": "Bird_Eye_Spot"
+    },
+    {
+     "JavaScript isn't enabled in your browser, so this file can't be opened. Enable and reload.": 27,
+     "Column2": "Tea",
+     "Column3": "Brown_Blight"
+    },
+    {
+     "JavaScript isn't enabled in your browser, so this file can't be opened. Enable and reload.": 28,
+     "Column2": "Tea",
+     "Column3": "Red_Leaf_Spot"
+    }
+   ]

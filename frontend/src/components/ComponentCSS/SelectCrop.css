@@ -1,0 +1,43 @@
+.crop-container {
+  text-align: center;
+  margin: 20px;
+  padding: 20px;
+  background-color: #D2E3C8; /* Light green background */
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+}
+
+.crop-heading {
+  color: #4F6F52; /* Dark green for heading */
+}
+
+.crop-button {
+  background-color: #fff; /* White background for button */
+  color: #000; /* Black text color for button */
+  padding: 10px 20px;
+  margin: 10px;
+  border: 2px solid #4F6F52; /* Dark green border */
+  border-radius: 4px;
+  cursor: pointer;
+  transition: background-color 0.3s, color 0.3s;
+}
+
+.crop-button-selected {
+  background-color: #4F6F52; /* Dark green for selected button background */
+  color: #fff; /* White text color for selected button */
+}
+
+.loader {
+  border: 4px solid #4F6F52; /* Dark green border for loader */
+  border-top: 4px solid transparent;
+  border-radius: 50%;
+  width: 30px;
+  height: 30px;
+  animation: spin 1s linear infinite;
+  margin: 10px auto;
+}
+
+@keyframes spin {
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(360deg); }
+}

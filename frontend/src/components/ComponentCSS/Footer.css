@@ -1,0 +1,43 @@
+.footer {
+  background-color: #4F6F52; /* Dark green background */
+  color: white; /* White text color */
+  padding: 2rem 0;
+  margin-top: 2rem; /* Add margin top to create space */
+}
+
+.footer-content {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+
+.footer-section {
+  flex: 1 0 50%;
+  max-width: 50%;
+}
+
+.footer-section h3 {
+  margin-bottom: 1rem;
+  color: #86A789; /* Light green heading color */
+}
+
+.footer-section ul {
+  list-style: none;
+  padding: 0;
+}
+
+.footer-section ul li {
+  margin-bottom: 0.5rem;
+  color: #D2E3C8; /* Light green text color */
+}
+
+.social-icons li {
+  display: inline;
+  margin-right: 1rem;
+}
+
+.footer-bottom {
+  text-align: center;
+  margin-top: 2rem;
+  color: #D2E3C8; /* Light green text color */
+}

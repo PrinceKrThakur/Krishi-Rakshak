@@ -1,0 +1,43 @@
+.front-page {
+    background: linear-gradient(to bottom, #4F6F52, #739072, #86A789, #D2E3C8);
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 20px; /* Add padding for spacing */
+  }
+  
+  .header h1 {
+    text-align: center;
+    color: #FFF; /* Change text color to white */
+    font-size: 36px; /* Increase font size */
+    margin-bottom: 40px; /* Add more spacing */
+  }
+  
+  .carousel {
+    text-align: center;
+    margin-top: 40px; /* Add spacing */
+  }
+  
+  .step {
+    font-size: 24px;
+    margin-bottom: 20px;
+    color: #FFF; /* Change text color to white */
+  }
+  
+  .next-button {
+    background-color: rgba(255, 255, 255, 0.8);
+    color: #4F6F52; /* Change button text color to match the color palette */
+    border: none;
+    padding: 12px 24px; /* Increase padding for better touch target */
+    font-size: 18px; /* Increase font size */
+    cursor: pointer;
+    transition: background-color 0.3s;
+    border-radius: 25px; /* Add border radius for a rounded button */
+  }
+  
+  .next-button:hover {
+    background-color: rgba(255, 255, 255, 1); /* Increase opacity on hover */
+  }
+  

@@ -1,0 +1,63 @@
+.container {
+  text-align: center;
+}
+
+.heading {
+  color: #4F6F52; /* Dark green for heading */
+}
+
+.dropzone {
+  border: 2px dashed #4F6F52; /* Dark green dashed border */
+  border-radius: 5px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+  width: 80%;
+  min-height: 250px;
+  margin: auto;
+}
+
+.image-preview {
+  max-height: 100%;
+  max-width: 100%;
+  display: block;
+  margin: auto;
+}
+
+.button {
+  display: inline-block;
+  width: 200px;
+  padding: 10px;
+  margin: 10px;
+  text-align: center;
+  background-color: #4F6F52; /* Dark green for button background */
+  color: #fff; /* White text color for button */
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.modal {
+  display: none;
+  position: fixed;
+  z-index: 1;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  overflow: auto;
+  background-color: rgba(0,0,0,0.4);
+}
+
+.modal-content {
+  background-color: #D2E3C8; /* Light green modal background */
+  margin: 15% auto;
+  padding: 20px;
+  border: 1px solid #739072; /* Dark green border for modal */
+  width: 80%;
+}
+
+.modal-buttons {
+  margin-top: 20px;
+  text-align: center;
+}

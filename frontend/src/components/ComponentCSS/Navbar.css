@@ -1,0 +1,26 @@
+.navbar {
+  background-color: #4F6F52; /* Dark green background */
+}
+
+.navbar-brand {
+  color: #D2E3C8; /* Light green for brand */
+}
+
+.nav-link {
+  color: #D2E3C8; /* Light green color for regular links */
+  transition: all 0.3s ease-in-out; /* Smooth transition for hover and active effects */
+}
+
+.nav-link:hover {
+  color: #739072; /* Dark green on hover for a soothing effect */
+}
+
+.nav-link.active {
+  font-weight: bold;
+  font-size: 1.1em;
+  color: #86A789; /* Light green for active link */
+}
+
+.navbar-nav .nav-item .nav-link.active {
+  font-weight: bold;
+}
